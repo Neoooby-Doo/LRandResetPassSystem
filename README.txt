@@ -1,4 +1,4 @@
-An Complete Login,Registration and Reset Password System with Reset Password written in PHP.
+An Complete Login,Registration and Reset Password written in PHP.
 
 Technologies:
 PHP, MySQL Database, HTML, CSS, JavaScript, Foundation CSS Framework
