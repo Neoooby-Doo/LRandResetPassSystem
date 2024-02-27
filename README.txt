@@ -14,7 +14,7 @@ System Installation/Setup
 3. Browse the PHPMyAdmin in browser.  Url: http://localhost/phpmyadmin
 4. Create a new database naming `login_and_reg_db`.
 5. Open `data-dictionary.pdf` located inside the directory. Follow the instructions which is written in the document to creating tables.
-6. Browse the Login and Registration with Reset Password System in a browser. i.e. http://localhost/login-registration-reset-pass-system/.
+6. Browse the Login and Registration with Reset Password System in a browser. i.e. http://localhost/LRandResetPassSystem-main/LRandResetPassSystem-main/.
 
 Enjoy!
 Happy Coding :⁠-⁠)
