@@ -18,7 +18,7 @@ System Installation/Setup
 2. Extract the downloaded  .zip file  and paste it into the XAMPP's `htdocs` directory.
 3. Browse the PHPMyAdmin in browser.  Url: http://localhost/phpmyadmin
 4. Create a new database naming `login_and_reg_db`.
-5. Open `data-dictionary.pdf` located inside the directory. Follow the instructions which is written in the document to creating tables.
+5. Open `data-dictionary.pdf` located inside the directory. Now, create the tables by following the instructions written in the document.
 6. Browse the Login, Registration and Reset Password System in a browser. i.e. http://localhost/LRandResetPassSystem-main/LRandResetPassSystem-main/.
 
 Enjoy!
