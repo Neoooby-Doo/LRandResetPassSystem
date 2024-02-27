@@ -1,4 +1,4 @@
-An Complete Login, Registration and Reset Password written in PHP.
+An Complete Login, Registration and Reset Password System written in PHP.
 
 Features:
 1. Secure Login and Registration
