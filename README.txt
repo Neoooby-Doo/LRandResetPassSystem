@@ -1,5 +1,10 @@
 An Complete Login, Registration and Reset Password written in PHP.
 
+Features:
+1. Secure Login and Registration
+2. Reset Password System with E-mail Verification
+3. 404 Error Page
+
 Technologies:
 PHP, MySQL Database, HTML, CSS, JavaScript, Foundation CSS Framework
 
