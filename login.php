@@ -20,7 +20,7 @@
 <div class="top-bar">
   <div class="top-bar-left">
     <ul class="menu" data-responsive-menu="accordion">
-     <a href="index.php"><img src="assets/img/logo.png"></a>
+     <a href="index"><img src="assets/img/logo.png"></a>
     </ul>
   </div>
   <div class="top-bar-right">
@@ -29,10 +29,10 @@
 		  // Check if the user is logged in
 if (isset($_SESSION['username'])) {
     // If the user is logged in, show the logout button
-    echo "<li><a class='button secondary' href='logout.php'>Logout</a></li>";
+    echo "<li><a class='button secondary' href='logout'>Logout</a></li>";
 } else {
     // If the user is not logged in, show the login form
-    echo "<li><a class='button secondary' href='login.php'>Login</a></li>";
+    echo "<li><a class='button secondary' href='login'>Login</a></li>";
 } ?>
       
     </ul>
@@ -76,8 +76,8 @@ if (isset($_SESSION['username'])) {
 			  </form>
 			  
 			  <p>
-			  <small>Need an account? <a href="signup.php">Sign up!</a></small><br>
-			 <small>Forgot your <a href="reset_password.php">Password</a></small><br>
+			  <small>Need an account? <a href="signup">Sign up!</a></small><br>
+			 <small>Forgot your <a href="reset_password">Password</a></small><br>
 			 </p>
             </div>
           </div>

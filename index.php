@@ -53,10 +53,10 @@ if (!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== TRUE) {
 		  // Check if the user is logged in
 if (isset($_SESSION['username'])) {
     // If the user is logged in, show the logout button
-    echo "<li><a class='button secondary' href='logout.php'>Logout</a></li>";
+    echo "<li><a class='button secondary' href='logout'>Logout</a></li>";
 } else {
     // If the user is not logged in, show the login form
-    echo "<li><a class='button secondary' href='login.php'>Login</a></li>";
+    echo "<li><a class='button secondary' href='login'>Login</a></li>";
 } ?>
       
     </ul>

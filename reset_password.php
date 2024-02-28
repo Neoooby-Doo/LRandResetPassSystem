@@ -21,7 +21,7 @@ include 'reset_pass_conn.php';
 <div class="top-bar">
   <div class="top-bar-left">
     <ul class="menu" data-responsive-menu="accordion">
-      <a href="index.php"><img src="assets/img/logo.png"></a>
+      <a href="index"><img src="assets/img/logo.png"></a>
     </ul>
   </div>
  

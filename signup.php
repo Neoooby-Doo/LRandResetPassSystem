@@ -24,7 +24,7 @@ include 'signup.conn.php';
 <div class="top-bar">
   <div class="top-bar-left">
     <ul class="menu" data-responsive-menu="accordion">
-      <img src="assets/img/logo.png">
+      <a href="index"><img src="assets/img/logo.png"></a>
     </ul>
   </div>
   <div class="top-bar-right">
@@ -85,7 +85,7 @@ if (isset($_SESSION['username'])) {
                                    
                                        
 										<br>
-                                        <span class="small">Have an account? Go to <a href="login.php">login</a></span>
+                                        <span class="small">Have an account? Go to <a href="login">login</a></span>
             </div>
           </div>
 		  
