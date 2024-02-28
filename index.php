@@ -26,7 +26,7 @@ if (!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== TRUE) {
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>New Paste | Login & Registration System</title>
+    <title>Home | LRandResetPassSystem</title>
 	<link rel="shortcut icon" href="favicon.ico">
     <link rel="stylesheet" href="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/default.min.css">
@@ -99,7 +99,7 @@ if (isset($_SESSION['username'])) {
    
     <div class="medium-6 columns">
       <ul class="menu float-right">
-        <li class="menu-text">&copy; A POSTatDPI Project. Made with 💖 in Dhaka, BD. </li>
+        <li class="menu-text">&copy; Made with 💖 in Dhaka, BD. </li>
       </ul>
     </div>
   </div>
