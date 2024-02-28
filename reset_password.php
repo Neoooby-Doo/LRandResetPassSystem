@@ -10,7 +10,7 @@ include 'reset_pass_conn.php';
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Password Recovery | Login & Registration System</title>
+    <title>Password Recovery | LRandResetPassSystem</title>
 	<link rel="shortcut icon" href="favicon.ico">
     <link rel="stylesheet" href="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
   </head>
@@ -157,7 +157,7 @@ include 'reset_pass_conn.php';
    
     <div class="medium-6 columns">
       <ul class="menu float-right">
-        <li class="menu-text">&copy; A POSTatDPI Project. Made with 💖 in Dhaka, BD. </li>
+        <li class="menu-text">&copy; Made with 💖 in Dhaka, BD. </li>
 
       </ul>
     </div>
