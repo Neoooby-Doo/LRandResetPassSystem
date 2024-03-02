@@ -3,6 +3,7 @@ An Complete Login, Registration and Reset Password System written in PHP.
 
 Author: @shrudra
 Licence: MIT Licence 
+
 === Features ===
 1. Secure Login and Registration
 2. Reset Password System with E-mail Verification
