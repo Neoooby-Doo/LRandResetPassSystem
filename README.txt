@@ -6,7 +6,7 @@ Licence: MIT Licence
 
 === Features ===
 1. Secure Login and Registration
-2. Reset Password System with E-mail Verification
+2. Reset Password System via E-mail Verification Code
 3. 404 Error Page
 
 === Technologies ===
