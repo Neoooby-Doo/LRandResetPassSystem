@@ -18,12 +18,12 @@ function send_mail($recipient,$subject,$message)
   $mail->SMTPSecure = "tls";
   $mail->Port       = 587;
   $mail->Host       = "smtp.gmail.com";
-  $mail->Username   = "sakhwt.hssain@gmail.com"; #Enter E-mail Address
-  $mail->Password   = "bnhnfcyzptspwhws"; #Enter App Password
+  $mail->Username   = "..."; #Enter E-mail Address
+  $mail->Password   = "..."; #Enter App Password
 
   $mail->IsHTML(true);
   $mail->AddAddress($recipient, "User");
-  $mail->SetFrom("sakhwt.hssain@gmail.com", "BSU 1952"); 
+  $mail->SetFrom("...", "..."); 
   $mail->Subject = $subject;
   $content = $message;
 
