@@ -20,7 +20,7 @@
 <div class="top-bar">
   <div class="top-bar-left">
     <ul class="menu" data-responsive-menu="accordion">
-     <a href="index"><img src="assets/img/logo.png"></a>
+     <a href="index">index.php</a>
     </ul>
   </div>
   <div class="top-bar-right">
