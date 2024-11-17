@@ -64,13 +64,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
  
   if (empty(trim($_POST["email"]))) {
 	  
-	   "<div class='callout warning' data-closable='slide-out-right'>
+	   
+    $email_err = "<div class='callout warning' data-closable='slide-out-right'>
  Please enter an email address.
   <button class='close-button' aria-label='Dismiss alert' type='button' data-close>
     <span aria-hidden='true'>&times;</span>
   </button>
 </div>"; 
-    $email_err = "please enter an email address";
   } else {
     $email = filter_var($_POST["email"], FILTER_SANITIZE_EMAIL);
     if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
