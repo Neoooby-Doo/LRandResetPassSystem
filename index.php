@@ -2,8 +2,8 @@
 <?php
 
 /**
- * @repo:      https://github.com/shrudra/login-and-registration-system/ The GitHub Repo.
-   @author:    Sakhawat Hossain (htps://github.com/shrudra/) <sakhwt.hssain@gmail.com>
+ * @repo:      https://github.com/Neoooby-Doo/login-and-registration-system/ The GitHub Repo.
+   @author:    Sakhawat Hossain (htps://github.com/Neoooby-Doo/) <sakhwt.hssain@gmail.com>
  * @license:   MIT License
 
 */
