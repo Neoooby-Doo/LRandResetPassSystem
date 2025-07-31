@@ -1,7 +1,7 @@
 === LRandResetPassSystem ===
 An Complete Login, Registration and Reset Password System written in PHP.
 
-Author: @shrudra
+Author: @Neoooby-Doo
 Licence: MIT Licence 
 
 === Features ===
